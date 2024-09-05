@@ -1,0 +1,4 @@
+2024-09-05 13:14:51.360 -04:00 [INF] Application is starting
+2024-09-05 13:16:07.550 -04:00 [INF] Application is starting
+2024-09-05 13:17:02.603 -04:00 [INF] Application is starting, and hello!
+2024-09-05 13:18:00.059 -04:00 [INF] Application is starting, and hello!
