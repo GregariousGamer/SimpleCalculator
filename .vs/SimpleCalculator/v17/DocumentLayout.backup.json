@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\services\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\services\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\simplecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\simplecalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\services\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\services\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +50,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SimpleCalculator",
+              "DocumentIndex": 4,
+              "Title": "IGreetingService.cs",
+              "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\IGreetingService.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Services\\IGreetingService.cs",
+              "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\IGreetingService.cs",
+              "RelativeToolTip": "SimpleCalculator\\Services\\IGreetingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:43:22.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreetingService.cs",
+              "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\GreetingService.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Services\\GreetingService.cs",
+              "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\GreetingService.cs",
+              "RelativeToolTip": "SimpleCalculator\\Services\\GreetingService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:42:39.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleCalculator.csproj",
               "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
               "RelativeDocumentMoniker": "SimpleCalculator\\SimpleCalculator.csproj",
               "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
@@ -55,13 +89,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\appsettings.json",
               "RelativeDocumentMoniker": "SimpleCalculator\\appsettings.json",
               "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\appsettings.json",
               "RelativeToolTip": "SimpleCalculator\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-03T19:15:50.422Z",
               "EditorCaption": ""
@@ -74,7 +108,7 @@
               "RelativeDocumentMoniker": "SimpleCalculator\\Program.cs",
               "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Program.cs",
               "RelativeToolTip": "SimpleCalculator\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T18:30:20.722Z",
               "EditorCaption": ""

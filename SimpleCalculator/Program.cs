@@ -1,5 +1,8 @@
 ﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using Serilog;
+using SimpleCalculator.Services;
 
 namespace SimpleCalculator
 {
@@ -16,6 +19,19 @@ namespace SimpleCalculator
                 .CreateLogger();
 
             Log.Logger.Information("Application is starting, and hello!");
+
+            var host = Host.CreateDefaultBuilder()
+                .ConfigureServices((context, services) =>
+                {
+                    services.AddTransient<IGreetingService, GreetingService>();
+                })
+                .UseSerilog()
+                .Build();
+
+            var svc = ActivatorUtilities.CreateInstance<GreetingService>(host.Services);
+            svc.Greeting();
+
+            Log.Logger.Information("Application has ended");
         }
 
         static void BuildConfig(IConfigurationBuilder builder)
