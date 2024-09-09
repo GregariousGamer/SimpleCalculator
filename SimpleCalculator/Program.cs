@@ -23,7 +23,7 @@ namespace SimpleCalculator
             var host = Host.CreateDefaultBuilder()
                 .ConfigureServices((context, services) =>
                 {
-                    services.AddTransient<IGreetingService, GreetingService>();
+                    services.AddMyServices();
                 })
                 .UseSerilog()
                 .Build();

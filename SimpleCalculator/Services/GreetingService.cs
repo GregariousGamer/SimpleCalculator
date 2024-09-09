@@ -22,8 +22,9 @@ namespace SimpleCalculator.Services
             Console.WriteLine("Please enter your name for a personalized greeting.");
             string username = Console.ReadLine();
             _log.LogInformation(username);
-            Console.WriteLine($"Hello, {username}");
-            Console.WriteLine($"And Goodbye");
+            string message = ($"Hello, {username}\nAnd Goodbye");
+            Console.WriteLine(message);
+            _log.LogInformation(message);
         }
     }
 

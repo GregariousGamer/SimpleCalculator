@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\services\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\services\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|c:\\users\\josephuser\\source\\repos\\simplecalculator2\\simplecalculator\\simplecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{39897740-F97D-49EA-A1B8-1F9A5760A5D3}|SimpleCalculator\\SimpleCalculator.csproj|solutionrelative:simplecalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator\\Services\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\ServiceRegistration.cs",
+              "RelativeToolTip": "SimpleCalculator\\Services\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:41:57.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IGreetingService.cs",
               "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\IGreetingService.cs",
               "RelativeDocumentMoniker": "SimpleCalculator\\Services\\IGreetingService.cs",
@@ -58,8 +75,7 @@
               "RelativeToolTip": "SimpleCalculator\\Services\\IGreetingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T17:43:22.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T17:43:22.105Z"
             },
             {
               "$type": "Document",
@@ -69,14 +85,14 @@
               "RelativeDocumentMoniker": "SimpleCalculator\\Services\\GreetingService.cs",
               "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Services\\GreetingService.cs",
               "RelativeToolTip": "SimpleCalculator\\Services\\GreetingService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T17:42:39.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SimpleCalculator.csproj",
               "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\SimpleCalculator.csproj",
               "RelativeDocumentMoniker": "SimpleCalculator\\SimpleCalculator.csproj",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "SimpleCalculator\\SimpleCalculator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-03T19:15:34.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T19:15:34.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\appsettings.json",
               "RelativeDocumentMoniker": "SimpleCalculator\\appsettings.json",
@@ -97,8 +112,7 @@
               "RelativeToolTip": "SimpleCalculator\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-03T19:15:50.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T19:15:50.422Z"
             },
             {
               "$type": "Document",
@@ -108,7 +122,7 @@
               "RelativeDocumentMoniker": "SimpleCalculator\\Program.cs",
               "ToolTip": "C:\\Users\\JosephUser\\source\\repos\\SimpleCalculator2\\SimpleCalculator\\SimpleCalculator\\Program.cs",
               "RelativeToolTip": "SimpleCalculator\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T18:30:20.722Z",
               "EditorCaption": ""
